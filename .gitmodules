@@ -1,0 +1,3 @@
+[submodule "packages/budget"]
+	path = packages/budget
+	url = https://github.com/yusufnadar/budget-mobile
