@@ -41,6 +41,8 @@ dependencies:
   extended_masked_text: ^2.3.1
   currency_formatter: ^2.2.1
   flutter_native_splash: ^2.3.11
+  coventil:
+    path: packages/coventil
 
 dev_dependencies:
   flutter_test:
